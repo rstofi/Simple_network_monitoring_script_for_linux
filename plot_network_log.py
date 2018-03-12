@@ -345,7 +345,7 @@ def plot_monitoring_statistics(log, title, save=False, resolution=1):
     plt.tight_layout(rect=[0, 0.03, 1, 0.9]);
 
     if save == True:
-        plt.savefig('%s.pdf' %title);
+        plt.savefig('%s.png' %title);
     else:        
         plt.show(fig);
 
