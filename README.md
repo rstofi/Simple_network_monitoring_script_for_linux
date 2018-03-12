@@ -13,4 +13,6 @@ This repo contains the bash and Python based scripts for monitor wifi signal str
 
 __Example output:__
 
-![alt text](http://https://github.com/rstofi/Simple_network_monitoring_script_for_linux/blob/master/Randomly_downloading_large_packages.png)
+Example 5 min testing of the amazing eduroam wifi at UWA while downloading random large packages:
+
+![alt text](https://github.com/rstofi/Simple_network_monitoring_script_for_linux/blob/master/Randomly_downloading_large_packages.png)
