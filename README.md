@@ -1,4 +1,4 @@
-# Simple network monitoring script for linux [![license badge][license-badge]][license-link]
+# Simple network monitoring script for linux [![license badge][license-badge]][license-link] [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
 
 [license-badge]: https://img.shields.io/packagist/l/doctrine/orm.svg
 [license-link]:  https://github.com/rstofi/VLBI_Imaging_Script/blob/master/LICENSE
